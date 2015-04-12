@@ -1,3 +1,6 @@
+# Open source 
+Copyright by Phan Van Trung
+
 Google Santa Tracker for Android
 ================================
 
